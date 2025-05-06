@@ -1,1 +1,1 @@
-hello
+Learning F string ,pthon
