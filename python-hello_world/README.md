@@ -1,1 +1,4 @@
-Learning F string ,pthon
+# Diretory: Hello World
+'''
+print("Learning F-String and Clicing
+'''
