@@ -1,6 +1,8 @@
-# Directory: python-if-else-loops-functions
+# Directory:  python-if-else-loops-functions
 تم انشاء هذا المجلد لتعزيز المهارات التي تعلمتها في معسكر Holberton by Tuwaiq Academy 
 تحديدا في كورس الPython لتعلم مفاهيم اساسية مثل الif Statement و الLoops و الFunctions في لغة البرمجة Python
+
+
 
 
 # الاهداف التعليمية :
