@@ -1,4 +1,8 @@
 # Directory:  python-if-else-loops-functions
+
+![image](https://github.com/user-attachments/assets/fe38c761-2c32-43ce-8226-c04ade90e8fb)
+
+
 تم انشاء هذا المجلد لتعزيز المهارات التي تعلمتها في معسكر Holberton by Tuwaiq Academy 
 تحديدا في كورس الPython لتعلم مفاهيم اساسية مثل الif Statement و الLoops و الFunctions في لغة البرمجة Python
 
@@ -21,7 +25,7 @@
  بناء برنامج بسيط يحدد اذا كانت الارقام موجبة سالبة او تساوي صفر ويطبع النتيجة المناسبة واسم الملف هو 0-positive_or_negative.py
 
 
-# شرح الاكواد سطرا بسطر :
+شرح الاكواد سطرا بسطر :
 
 هذا يسمى Shebang يحدد يجب ان يشتغل باستخدام البايثون الموجود بهذا المسار
 
