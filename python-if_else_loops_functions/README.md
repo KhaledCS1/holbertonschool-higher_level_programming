@@ -1,13 +1,17 @@
-# python-if_else_loops_functions
+# Directory python-if-else-loops-functions
 تم انشاء هذا المجلد لتعزيز المهارات التي تعلمتها في معسكر Holberton by Tuwaiq Academy تحديدا في كورس الPython تعلم مفاهيم الif Statement و الLoops و الFunctions في لغة البايثون
 
 
 # الاهداف التعليمية :
-1- استخدام المكتبات مثل مكتبة random
-2-  استخدام وفهم الشروط if/elif/else
-3- استخدام و فهم الLoops
-4- فهم الFunctions
-5- التعامل مع مفاهيم مثل F-string
+
+استخدام المكتبات مثل مكتبة random
+
+استخدام وفهم الشروط if/elif/else
+
+استخدام و فهم الLoops
+
+فهم الFunctions و التعامل مع مفاهيم مثل F-string
+
 
 
 # Task 0
