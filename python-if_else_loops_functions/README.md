@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/fe38c761-2c32-43ce-8226-c04ade90e8fb)
 
 
-في هذا ال directory يتم إضافة المشاريع التي تعلمتها وعززت مهاراتي بها في لغة البرمجة Python وتعزيز مفاهيم أساسيه مثل if Statement والLoops وكذلك الFunctions
+في هذا ال directory يتم إضافة المشاريع التي تعلمتها من معسكر  Holberton by Tuwaiq Academy وعززت مهاراتي بها في لغة البرمجة Python وتعزيز مفاهيم أساسيه مثل if Statement والLoops وكذلك الFunctions
 
 # الاهداف التعليمية :
 
