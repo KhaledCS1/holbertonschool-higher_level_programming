@@ -1,4 +1,4 @@
-# HolbertonSchool: Higher Level programming
+# HolbertonSchool: Higher Level Programming
 
 ```
 Print("Hello Python!")
