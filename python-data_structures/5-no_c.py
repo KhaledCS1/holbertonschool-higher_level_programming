@@ -5,7 +5,5 @@ def no_c(my_string):
     khaled = ""
     for char in my_string:
        if char not in ('c', 'C'):
-            Khaled += char
-
-    
+            khaled += char
     return khaled
