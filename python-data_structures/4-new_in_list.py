@@ -2,7 +2,7 @@
 
 # File: 3-print_reversed_list_integer.py
 
-def new_in_list(my_list, idx, element)
+def new_in_list(my_list, idx, element):
 
     new_list = my_list[:]
 
