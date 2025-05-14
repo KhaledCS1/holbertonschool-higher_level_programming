@@ -2,11 +2,10 @@
 
 def no_c(my_string):
 
-    khaled = " "
-    
+    khaled = ""
     for char in my_string:
-        if char != 'c' and char != 'C':
-            kaled += char
+       if char not in ('c', 'C'):
+            Khaled += char
 
     
     return khaled
