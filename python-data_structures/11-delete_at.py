@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-def no_c(my_string):
-    khaled = ""
-    for char in my_string:
-        if char not in ('c', 'C'):
-            khaled = khaled + char
-    return khaled
+def delete_at(my_list=[], idx=0):
+    length = len(my_list)
+    if idx < 0 or idx >= length:
+        return my_list
+    del my_list[idx]
+    return my_list
