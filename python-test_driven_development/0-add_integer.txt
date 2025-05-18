@@ -1,0 +1,92 @@
+\========================================
+0‑add\_integer — Technical Documentation
+========================================
+
+Project   : 0x07. Python ‑ Test‑Driven Development
+Task      : 0. Integers addition
+Author    : Khaled
+Date      : 18‑May‑2025
+Python ver: 3.x
+
+1. Overview
+
+---
+
+`add_integer(a, b=98)` returns the **integer** sum of two numbers while strictly
+conforming to Holberton/ALX checker requirements
+
+2. Function Signature
+
+---
+
+```python
+def add_integer(a, b=98):
+    """Return the sum of a and b after validation"""
+```
+
+3. Specification
+
+---
+
+• **a** *(int | float)*  : first operand
+• **b** *(int | float)*  : second operand, defaults to **98**
+• **Return**             : `int` (sum of *a* and *b*)
+• **Exceptions**         : `TypeError` with **exact** messages:
+– `"a must be an integer"` if *a* is invalid
+– `"b must be an integer"` if *b* is invalid
+
+> *Floats are explicitly cast to integers via `int()` before addition*
+
+4. Rationale
+
+---
+
+* **No external imports** → zero‑dependency module suitable for sandboxed grading
+* **Explicit type checking** → predictable error handling that matches doctest
+* **Casting rule** follows project rubric requiring integers only in final sum
+
+5. Usage Examples (doctest‑ready)
+
+---
+
+```python
+>>> from 0_add_integer import add_integer
+>>> add_integer(1, 2)
+3
+>>> add_integer(100, -2)
+98
+>>> add_integer(2)
+100
+>>> add_integer(100.3, -2)
+98
+>>> add_integer(4, "School")
+Traceback (most recent call last):
+    ...
+TypeError: b must be an integer
+>>> add_integer("Hello")
+Traceback (most recent call last):
+    ...
+TypeError: a must be an integer
+```
+
+6. Testing Quick‑Start
+
+---
+
+Run project doctests :
+
+```
+$ python3 -m doctest -v tests/0-add_integer.txt
+```
+
+All nine tests should pass: **9 passed and 0 failed**
+
+7. Changelog
+
+---
+
+* **v1.0 (18‑May‑2025)** — Initial release
+
+---
+
+(End of file)
